@@ -1,9 +1,7 @@
-function App() {
-  return (
-    <div>
+import { Route, Switch } from "react-router-dom";
 
-    </div>
-  );
+function App() {
+  return <div></div>;
 }
 
 export default App;
