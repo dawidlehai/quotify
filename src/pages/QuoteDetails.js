@@ -14,7 +14,7 @@ const QuoteDetails = () => {
   const { quoteId } = useParams();
 
   const quote = DUMMY_QUOTES.find((quote) => quote.id === quoteId);
-  if (!quote) return <p>No quote found.</p>;
+  if (!quote) return <p className="centered">No quote found.</p>;
 
   return (
     <Fragment>
