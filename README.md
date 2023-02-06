@@ -1,9 +1,19 @@
-# quotify
+# 💬 Quotify
 
 **Display and add quotes. A demo project with React Router.**
 
+## 💻 Screenshot
+[<img src="quotify-screenshot.webp" alt="Screenshot of the Quotify app" width="480px">](https://dawidlehai-quotify.netlify.app/ 'Live preview')
+
+## 🛠️ Tools and technologies
+`React` `React Router` `CSS` `Create React` `VS Code`
+
+By preparing this project I learned basics about **React Router**.
+
+## 🌐 Deployment
+Deployed on `Netlify`.
+
 Live preview at [dawidlehai-quotify.netlify.app](https://dawidlehai-quotify.netlify.app/).
 
-This project was created as a part of the [Udemy](https://www.udemy.com/ 'Udemy') course _React - The Complete Guide (incl Hooks, React Router, Redux)_ by [Maximilian Schwarzmüller](https://twitter.com/maxedapps 'Maximilian Schwarzmüller on Twitter').
-
-By preparing this project I learned basics about React Router.
+## 🎓 Related course
+This project was created as a part of the [Udemy](https://www.udemy.com/ 'Udemy') course [_React - The Complete Guide (incl Hooks, React Router, Redux)_](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ 'See this course on Udemy') by [Maximilian Schwarzmüller](https://twitter.com/maxedapps 'Maximilian Schwarzmüller on Twitter').
